@@ -1,0 +1,12 @@
+# Ignore the config.js files
+simple-map/static/js/config.js
+mapping-single-points/static/js/config.js
+mapping-multiple-points/static/js/config.js
+mapping-lines/static/js/config.js
+mapping-geojson-polygons/static/js/config.js
+mapping-geojson-points/static/js/config.js
+mapping-geojson-linestrings/static/js/config.js
+earthquakes-past7days/static/js/config.js
+
+# Ignore practice file
+mapping-geojson-points/static/js/logicPractice.js
